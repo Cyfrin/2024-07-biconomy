@@ -112,4 +112,7 @@ Nonce management is crucial to prevent replay attacks by ensuring unique transac
 ### Authorization and Access Control
 Nexus uses various access control mechanisms, including `onlyEntryPointOrSelf`, `onlyEntryPoint`, and `onlyExecutorModule`, to secure function access.
 
+### Validator management
+A Nexus Smart Account could be locked forever if the owner installs a validator in the wrong way and does remove all other valid validators
+
 [//]: # (known-issues-close)
