@@ -70,6 +70,12 @@ Blockchains:
 
 ## Setup
 
+Clone the repo:
+```bash
+git clone https://github.com/Cyfrin/2024-07-biconomy.git
+code 2024-07-biconomy
+```
+
 ```bash
 yarn install
 
