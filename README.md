@@ -121,4 +121,7 @@ Nexus uses various access control mechanisms, including `onlyEntryPointOrSelf`, 
 ### Validator management
 A Nexus Smart Account could be locked forever if the owner installs a validator in the wrong way and does remove all other valid validators
 
+### Additional Known Issues
+Additional issues detected by LightChaser can be found [here](https://github.com/Cyfrin/2024-07-biconomy/issues/1)
+
 [//]: # (known-issues-close)
